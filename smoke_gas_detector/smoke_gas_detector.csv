@@ -1,0 +1,10 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+BZ1	1	Buzzer				Buzzer_Beeper:Buzzer_12x9.5RM7.6	~
+C1	1	C_Polarized_US				Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal	~
+D1	1	LED				LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder	~
+J1	1	Barrel_Jack_Switch				Connector_BarrelJack:BarrelJack_CLIFF_FC681465S_SMT_Horizontal	~
+Q1	1	SS8050				Package_TO_SOT_SMD:SOT-23	http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf
+R1	1	R				Resistor_SMD:R_0612_1632Metric_Pad1.18x3.40mm_HandSolder	~
+RV1	1	R_Potentiometer				Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal	~
+U1	1	L7805				Package_TO_SOT_SMD:TO-252-2	http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+U2	1	MQ-2				Sensor:MQ-6	https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
